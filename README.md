@@ -6,7 +6,7 @@
 *Chinese (Simplifies) Language Pack for Visual Studio Code*
 3. Command Palette `Ctrl+Shift+P`
 4. search `configure language`, click `zh-cn`
-- **Markdown**
+- **[Markdown](https://github.com/conanchiao/Visual-Studio-Code/tree/master/Markdown)**
     - Markdown Preview Enhanced
     - Markdown All in One
     - Markdown PDF
